@@ -6548,15 +6548,13 @@ footer.site-footer .credits{
 section.home{
 	text-align:center;
 	margin-top:0px;
-	padding-top:40px;
-	padding-bottom:40px;
+	padding-top:10px;
+	padding-bottom:10px;
 	margin-bottom:0px
 }
 
 .home-title{
-	min-height:468px;
-	max-height:625px;
-	margin-top:40px;
+	margin-top:10px;
 	color:#4cba6f;
 	background-size:cover;
 	background-position:center center
