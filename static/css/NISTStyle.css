@@ -6562,6 +6562,10 @@ section.home{
 	background-position:center center
 }
 
+section.footer{
+	text-align:center;
+}
+
 @media (min-width:1200px){
 	.home-title{
 		max-height:800px
