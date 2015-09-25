@@ -200,6 +200,7 @@ td,th{
 
 	a,a:visited{
 		text-decoration:underline
+		color: purple;
 	}
 
 	a[href]:after{
@@ -307,7 +308,7 @@ a{
 }
 
 a:hover,a:focus{
-	color:#34864e;
+	color:#03031F;
 	text-decoration:underline
 }
 
@@ -6390,7 +6391,7 @@ h1{
 
 h2{
 	font:30px / 1.875em;
-	color:#1d9967;
+	color:#03030F;
 	font-weight:700
 }
 
